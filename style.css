@@ -24,11 +24,17 @@ main div {
 
 h1 {
     font-size: 3.75em;
+    color: black;
 }
 
 h2 {
     font-size: 2.5em;
     font-weight: normal;
+}
+h3 {
+    font-size: 2.5em;
+    font-weight: normal;
+    color:black;
 }
 
 p {
